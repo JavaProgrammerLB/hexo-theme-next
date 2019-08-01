@@ -46,6 +46,8 @@ page:
 footer:
   powered: "由 %s 强力驱动"
   theme: 主题
+  icp: 浙ICP备19027514号
+  gonganbeian: 浙公网安备 33010602003886号
   total_views: 总访问量
   total_visitors: 总访客量
 counter:
