@@ -53,7 +53,7 @@
   #}{{ __('footer.theme') }} – {{ next_url('https://theme-next.org', 'NexT.' + theme.scheme, {class: 'theme-link'}) }}{#
   #}{%- if theme.footer.theme.version %} v{{ version }}{%- endif %}{#
 #}</div>
-<div class="theme-info">
+<div class="copyright">
   {{ __('footer.icp') }}
 </div>
 </div>
