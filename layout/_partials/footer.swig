@@ -58,7 +58,7 @@
 </div>
 </div>
 
-<div class="copyright">
+<div class="footer-inner">
 	<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010602003886">{{ __('footer.gonganbeian') }}</a>
 </div>
 {%- endif %}
